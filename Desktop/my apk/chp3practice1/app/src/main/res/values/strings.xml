@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">chp3practice1</string>
+    <string name="name"><b>NAME:</b>Krishna Kumar</string>
+    <string name="address"><b>ADDRESS:</b>Planet Earth</string>
+</resources>

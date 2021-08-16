@@ -1,0 +1,2 @@
+rootProject.name = "chp3practice1"
+include ':app'

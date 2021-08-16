@@ -1,0 +1,4 @@
+rootProject.name = "chp2practice1"
+include ':app'
+include ':myapplication'
+include ':lib'
